@@ -14,9 +14,9 @@ Log In after installing WordPress
 
 ![Katacoda Logo](./assets/pic004.jpg)
 
-Click Plugins and choose Add New
+Click Plugins and choose `Add New`
 ![Katacoda Logo](./assets/pic005.jpg)
 
-Search WooCommerce and click "Install Now" button
+Search WooCommerce and click `Install Now` button
 ![Katacoda Logo](./assets/pic006.jpg)
 
