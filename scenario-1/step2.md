@@ -1,8 +1,7 @@
-# Heading for Step 2
+# Step 2
 
-This is some text.
+## View the wordpress at localhost:8080:
 
-Here's a single line of runnable code:
+https://[[HOST_SUBDOMAIN]]-8080-[[KATACODA_HOST]].environments.katacoda.com
 
-`printf 'Jello, world!\n\n'`{{execute}}
 
